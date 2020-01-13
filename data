@@ -1,0 +1,6 @@
+We will be extracting neighborhoods and boroughs of Canada using wikipedia page.
+Finding all the venues in each borough and then find the venue category of it using ForeSquare API.
+Then filter the columns based on type of restaurant.
+Then grouping data based on different type of boroughs in Canada , the type is based on the type of restaurants 
+present in that borough.
+Different clusters of boroughs based on the type/cuisines of restaurants present in that area.
