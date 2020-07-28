@@ -1,4 +1,4 @@
-# ibm_capstone_project
+# Capstone Project: Clustering boroughs based on cuisines
 
 
 Problem statement: Suppose a company wants to know which boroughs of Canada have the same type/cuisines of restaurants so that
