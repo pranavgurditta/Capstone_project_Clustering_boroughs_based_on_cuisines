@@ -1,1 +1,0 @@
-This is the link to the project [Capstone](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/46e4b61d-dd24-4b32-ad03-a930e252aaa4/view?access_token=1e34cd8d6b7d6ee6ae106819c948bce619b1b1e1e8f191dbf2bc19f6410245c3)
