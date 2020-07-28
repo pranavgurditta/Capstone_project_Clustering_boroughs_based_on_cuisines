@@ -14,5 +14,5 @@ The company can gain a lot of profit by becoming the nearest seller as restauran
 The company can also filter which raw materials to send to a store on a daily basis.
 
 
-The link to the project is as follows :
-https://github.com/pranavgurditta/ibm_capstone_project/blob/master/notebook_final.ipynb
+The link to the project is as follows:
+https://github.com/pranavgurditta/Capstone_project_Clustering_boroughs_based_on_cuisines/blob/master/CAPSTONE_PROJECT_FINAL_FILE.ipynb
